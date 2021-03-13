@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dappnode/DNP_WIFI"
+    "url": "https://github.com/yieldmine/DNP_WIFI"
   },
   "bugs": {
-    "url": "https://github.com/dappnode/DNP_WIFI/issues"
+    "url": "https://github.com/yieldmine/DNP_WIFI/issues"
   },
   "license": "GPL-3.0"
 }
