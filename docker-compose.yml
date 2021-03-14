@@ -12,7 +12,7 @@ services:
     container_name: DAppNodeCore-wifi.dnp.dappnode.eth
     environment:
       - SSID=YieldMineWIFI
-      - WPA_PASSPHRASE=dappnode
+      - WPA_PASSPHRASE=yieldmine
       - NAT=true
       - CHANNEL=11
       - MODE=admin
