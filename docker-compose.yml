@@ -11,7 +11,7 @@ services:
     image: "wifi.dnp.dappnode.eth:0.2.6"
     container_name: DAppNodeCore-wifi.dnp.dappnode.eth
     environment:
-      - SSID=DAppNodeWIFI
+      - SSID=YieldMineWIFI
       - WPA_PASSPHRASE=dappnode
       - NAT=true
       - CHANNEL=11
